@@ -1,4 +1,4 @@
-## RPS Game [Rock Papper Scissors]
-this is another python priject that i trying to make. only game and its fun!
+## RPS Game [Rock Paper Scissors]
+this is another python project that I trying to make. only game and it's fun!
 
 thank you for seeing my project :D
