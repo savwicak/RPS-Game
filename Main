@@ -2,14 +2,14 @@ import time
 import random 
 
 time.sleep(0.5)
-print("Hello, Welcome to the Rock Papper scissors Game!")
+print("Hello, Welcome to the Rock Paper scissors Game!")
 time.sleep(0.5)
-print("Please input Rock or Papper or Sisors if you want to stop input stop :D")
+print("Please input Rock or paper or Sisors if you want to stop input stop :D")
 time.sleep(0.5)
 print("There is score! type score if you want to see it!")
 time.sleep(2)
  
-rps = ["rock", "papper", "scissors"]
+rps = ["rock", "paper", "scissors"]
 player = input("Please input your answer: ")
 score = 0
 
@@ -32,7 +32,7 @@ while player != "stop":
         else:
             print("player win!")
             score += 1
-    elif player == "papper" :
+    elif player == "paper" :
         if computer == "scissors":
             print("computer win!")
         else:
