@@ -1,4 +1,4 @@
-.pyimport time
+.import time
 import random 
 
 time.sleep(0.5)
